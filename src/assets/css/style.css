@@ -1,0 +1,40 @@
+.mainOuter {
+	background-color: #efefef;
+}
+.header {
+	background-color: #286ea9;
+	height: 60px;
+}
+.headerText {
+	font-size: 13px;
+}
+.headerSmallText {
+	font-size: 10px;
+}
+.leftCol {
+	height: 500px;
+	background-color: white;
+}
+.leftHeader {
+	background-color: #585856;
+	height: 35px;
+}
+.rightHeader {
+	background-color: #286ea9;
+	height: 35px;
+}
+.rightHeaderText {
+	color: white;
+	padding-right: 10px;
+}
+.topSection {
+	background-color: white;
+	height: 150px;
+}
+.formatText {
+	font-size: 14px;
+}
+.formatInput {
+	height: 22px;
+	width: 22px;
+}
